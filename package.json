@@ -1,0 +1,30 @@
+{
+  "name": "react-dev",
+  "version": "1.0.0",
+  "description": "React Dev project",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prachi95/react-dev.git"
+  },
+  "author": "Prachi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prachi95/react-dev/issues"
+  },
+  "homepage": "https://github.com/Prachi95/react-dev#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
